@@ -10,7 +10,7 @@ const RootLayout = ({children}) => {
   return (
     <html lang="en">
       <body>
-        <main className='max-w-screen-lg mx-auto'>
+        <main className='max-w-screen-xl mx-auto'>
           <Navbar />
           {children}
         </main>
